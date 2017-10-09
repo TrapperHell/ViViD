@@ -5,8 +5,8 @@ A Vimeo video downloader proof-of-concept...
 
 1. Open the executable
 2. Paste the Vimeo video link and hit Enter
-3a. App will fail miserably, crash and burn... It didn't? What do you mean, it didn't?! It's supposed to fail. Well in that case, see step #3b
-3b. Video will be downloaded in one of way ways, depending on which one is possible.
+3. App will fail miserably, crash and burn... It didn't? What do you mean, it didn't?! It's supposed to fail. Well in that case, see step #3.1
+    1. Video will be downloaded in one of way ways, depending on which one is possible.
 
 **Note:** Using the favoured approach, the video and audio streams will be downloaded as separate stream files. If you want them combined, specify an FFmpeg bin path in the app.config prior to doing the above.
 
